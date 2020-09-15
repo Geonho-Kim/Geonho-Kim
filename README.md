@@ -13,8 +13,8 @@
 - ⚡ Fun fact: ...
 -->
 ## 🌱 I’m currently learning 
-###    "JavaScript(Vanilla)"
-
+###    "JavaScript"
+###     "Css"
 
 ![Visit](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FClzzi%2Fhit-counter&count_bg=%237B62C3&title_bg=%239D7EDF&icon=electron.svg&icon_color=%23B890DF&title=Visit&edge_flat=false)
 
@@ -25,13 +25,12 @@
 
 ## 🔭 I learned ..
 ### - Html
-### - Css
 ### - C
-### - python
+
 
 ## ⚡ I want to learn about ..
 ### - React.Js
 ### - Vue.Js
 ### - Angular.Js
-### - Css(sass , scss)
+
 ### - TypeScript
