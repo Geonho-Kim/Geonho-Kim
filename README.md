@@ -1,5 +1,5 @@
-###  DGSW2302 | 김건호
-## 대구소프트웨어고등학교 2학년
+###  DGSW3302 | 김건호
+## 대구소프트웨어고등학교 3학년
 
 <!--
 **Clzzi/Clzzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
