@@ -24,7 +24,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Geonho-Kim&layout=compact)
 
 
-## 🔭 I learned ..
+<!-- ## 🔭 I learned ..
 ### - C
 
 
@@ -34,3 +34,4 @@
 ### - 
 
 ### - 
+ -->
